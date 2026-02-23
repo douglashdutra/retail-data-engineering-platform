@@ -1,3 +1,5 @@
+# https://github.com/leventbulut/synthetic-datasets
+
 # Synthetic Data Repository
 
 Welcome! This repo contains **realistic synthetic datasets** for practicing data science and machine learning. All datasets are generated with sophisticated logic (seasonality, dependencies, outliers, missingness) but **contain no real-world PII or proprietary data**.
